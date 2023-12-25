@@ -1,2 +1,1 @@
-# Challenge_3
- Northwestern Boot Campt Challenge 3
+# Password Generator Starter Code
